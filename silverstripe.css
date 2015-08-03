@@ -221,3 +221,7 @@ code {
     font-weight : normal;
     font-style  : normal;
 }
+
+.hljs {
+    padding: 0 !important;
+}
