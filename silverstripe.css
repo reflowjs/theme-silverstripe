@@ -225,3 +225,7 @@ code {
 .hljs {
     padding: 0 !important;
 }
+
+code {
+    overflow: hidden !important;
+}
